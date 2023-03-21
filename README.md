@@ -1,0 +1,9 @@
+Extracting Summary of articles:
+
+- Cleaning the articles using Pandas in Python by removing duplicates and irrelevant data.
+
+- Filtering the articles in uniqueness and relevancy using spaCy (spaCy is a software library for advanced natural language processing, written in Python and Cython) by removing irrelevant data using trained pipelines for English.
+
+- Extracting the summary for the articles using Python Selenium and QuillBot (https://quillbot.com/summarize)
+
+- Saving the data in a database file (.db) and then extracting it in Excel format.
